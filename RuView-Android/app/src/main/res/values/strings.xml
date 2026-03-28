@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RuView</string>
+    <string name="tab_live">Live</string>
+    <string name="tab_vitals">Vitals</string>
+    <string name="tab_zones">Zones</string>
+    <string name="tab_mat">MAT</string>
+    <string name="tab_settings">Settings</string>
+</resources>
